@@ -8,4 +8,4 @@
 Kshitij-Python/Kshitij-Python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/Kshitij_230"><img src="https://api.daily.dev/devcards/a775ad9c0524441ba910619c399c6e85.png?r=tu9" width="400" alt="Kshitij Kumar's Dev Card"/></a>
+
